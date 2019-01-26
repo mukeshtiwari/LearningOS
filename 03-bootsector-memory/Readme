@@ -3,6 +3,7 @@ keep-learnings-MacBook-Pro:03-bootsector-memory keep_learning$ xxd boot_sec_memo
 
 but You can use https://defuse.ca/online-x86-assembler.htm to also assemble the code
 
+keep-learnings-MacBook-Pro:03-bootsector-memory keep_learning$ xxd boot_sec_memory
 00000000: b40e b031 cd10 b02d cd10 b032 cd10 a02d  ...1...-...2...-
 00000010: 00cd 10b0 33cd 10bb 2d00 81c3 007c 8a07  ....3...-....|..
 00000020: cd10 b034 cd10 a02d 7ccd 10eb fe58 0000  ...4...-|....X.. (* X after 13 place from 0x20, counting from 0. Remember we are computer scientist *)
