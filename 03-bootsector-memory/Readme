@@ -37,3 +37,6 @@ keep-learnings-MacBook-Pro:03-bootsector-memory keep_learning$ xxd boot_sec_memo
 000001e0: 0000 0000 0000 0000 0000 0000 0000 0000  ................
 000001f0: 0000 0000 0000 0000 0000 0000 0000 55aa  ..............U.
 
+
+See Also [1][1](https://www.glamenv-septzen.net/en/view/6) 
+[2](https://www.tutorialdocs.com/article/why-master-boot-record-is-0x7c00.html)
